@@ -166,7 +166,7 @@ body {
 }
 
 .card .action button:active {
-    background: var(--btn-active-yellow);
+    background: var(--light-blues);
     transform: scale(1);
 }
 
